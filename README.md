@@ -1,2 +1,3 @@
-# Rex-Chat-
-##A PHP based web application which provides one to one chat
+# Rex-Chat
+
+# A PHP based chat application which provides one to one chat
